@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="70dp"
+    android:orientation="horizontal"  >
+    
+	<LinearLayout
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:orientation="horizontal" 
+	    android:background="@drawable/bpush_list_item_bg" >
+	    
+	    <ImageView
+	        android:id="@+id/bpush_media_list_img"
+	        android:layout_width="40dp"
+	        android:layout_height="40dp"
+	        android:paddingLeft="3dp"
+	        android:layout_gravity="center_vertical" />
+	
+	    <LinearLayout
+	        xmlns:android="http://schemas.android.com/apk/res/android"
+	        android:layout_width="fill_parent"
+	        android:layout_height="fill_parent"
+	        android:orientation="vertical"
+	        android:paddingLeft="12dp" >
+	
+	        <TextView
+	            android:id="@+id/bpush_media_list_title"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+	            android:ellipsize="end"
+	            android:layout_marginTop="8dp"
+	            android:singleLine="true"
+	            android:textColor="#000000"
+	            android:textSize="16dp" />
+	        <RelativeLayout
+		         xmlns:android="http://schemas.android.com/apk/res/android"
+		         android:layout_width="fill_parent"
+		         android:layout_height="fill_parent"
+		         android:orientation="horizontal" 
+		         android:layout_marginBottom="8dp">
+	
+	         <TextView
+	             android:id="@+id/bpush_media_list_from_text"
+	             android:layout_width="wrap_content"
+	             android:layout_height="wrap_content"
+	             android:ellipsize="end"
+	             android:singleLine="true"
+	             android:textColor="#000000"
+	             android:textSize="10dp" />
+	         <TextView
+	             android:id="@+id/bpush_media_list_time_text"
+	             android:layout_width="wrap_content"
+	             android:layout_height="wrap_content"
+	             android:ellipsize="end"
+	             android:paddingRight="5dp"
+	             android:layout_alignParentRight="true"
+	             android:singleLine="true"
+	             android:textColor="#000000"
+	             android:textSize="10dp" />
+	         </RelativeLayout>
+	    </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

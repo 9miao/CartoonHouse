@@ -1,0 +1,17 @@
+# view res/layout/umeng_example_analytics_fragment_tabs.xml #generated:1
+-keep class android.support.v4.app.FragmentTabHost { <init>(...); }
+
+# onClick res/layout/umeng_example_analytics.xml #generated:15
+# onClick res/layout/umeng_example_analytics.xml #generated:21
+# onClick res/layout/umeng_example_analytics.xml #generated:30
+# onClick res/layout/umeng_example_analytics.xml #generated:35
+# onClick res/layout/umeng_example_analytics.xml #generated:43
+# onClick res/layout/umeng_example_analytics.xml #generated:48
+# onClick res/layout/umeng_example_analytics.xml #generated:55
+# onClick res/layout/umeng_example_analytics.xml #generated:61
+# onClick res/layout/umeng_example_analytics.xml #generated:69
+# onClick res/layout/umeng_example_analytics.xml #generated:74
+# onClick res/layout/umeng_example_analytics.xml #generated:80
+# onClick res/layout/umeng_example_analytics.xml #generated:87
+-keepclassmembers class * { *** onButtonClick(...); }
+

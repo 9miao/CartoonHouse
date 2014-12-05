@@ -1,0 +1,84 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="adminWeb.pages.Site1" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <link href="../images/site.css" rel="stylesheet" />
+    <script src="../javaScript/jquery-1.7.1.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div class="top">
+        <div class="box1000 rel">
+            <a href="#">
+                <img src="../images/logo.png" width="310" height="40" class="logo" /></a> 
+            <div class="top_user_wrap">
+                <span class="mm"><span class="ll"><span class="rr">
+                    <img src="../images/ima/23-23.jpg" width="23" height="23" class="smallhead" />
+                    <span class="name"><a title="点击退出" href="loginout.ashx">admin</a></span>
+                    <a href="#" class="pull_down_ico"></a>
+                </span></span></span>
+                <div class="pull_down_wrap hidden">
+                    <img src="images/ima/95-95.jpg" width="95" height="95" class="bighead" />
+                    <div class="p_d_rr">
+                        <p class="p_n">管理员姓名</p>
+                        <p class="p_e">523806768@qq.com</p>
+                        <a href="#">编辑资料</a>
+                        <a href="#">帐号设置</a>
+                        <a href="#">注销</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="main_nav_wrap">
+        <div class="box1000">
+            <ul>
+                <li><a href="classify.aspx">
+                    <img src="../images/ico_nav1.png" width="30" height="25" /><span>分类管理</span></a></li>
+                <li><a href="comic.aspx">
+                    <img src="../images/ico_nav2.png" width="24" height="25" /><span>漫画管理</span></a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="box1000 wrap fixed">
+        <div class="left_wrap">
+            <div class="bigclass_wrap">
+                <div class="bigclass">分类管理<span class="arrow"></span></div>
+                <ul class="smallclass_wrap fixed">
+                    <li><a href="classify.aspx">分类</a></li>
+                </ul>
+            </div>
+
+            <div class="bigclass_wrap">
+                <div class="bigclass">漫画管理<span class="arrow"></span></div>
+                <ul class="smallclass_wrap fixed">
+                    <li><a href="comic.aspx">漫画管理</a></li>
+                </ul>
+            </div>
+            <div class="bigclass_wrap">
+                <div class="bigclass">安全管理<span class="arrow"></span></div>
+                <ul class="smallclass_wrap fixed">
+                    <li><a href="loginout.ashx">退出登录</a></li>
+                </ul>
+            </div>
+            <div class="bigclass_wrap">
+                <div class="bigclass">九秒社团自研开发<span class="arrow"></span></div>
+                <ul class="smallclass_wrap fixed">
+                    <li><a href="http://crossapp.9miao.com/"  target="_blank">CrossApp官网</a></li>
+                    <li><a href="http://www.9miao.com/" target="_blank">九秒社团官网</a></li>
+                    <li><a href="http://www.9miao.com/question/list" target="_blank">在线问答</a></li>
+                </ul>
+            </div>
+            <div class="bigclass_wrap">
+                <img  style="margin-top:10px" src="../images/logo9.png" width="200" alt="九秒社团" />
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>EF69D0F6-DC70-4A22-BCE6-2E0A50E31099</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CartoonHouse</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>01E6740F83DA3F1845279ED231C65397E010E150</key>
+		<string>https://git.oschina.net/liyuanfeng/Cartoon-house.git</string>
+		<key>630594A0C3AF0041EB86DE5D805A5B25A32E1B5D</key>
+		<string>http://git.oschina.net/9miao/CrossApp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>proj.mac/CartoonHouse.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>01E6740F83DA3F1845279ED231C65397E010E150</key>
+		<string>../../..</string>
+		<key>630594A0C3AF0041EB86DE5D805A5B25A32E1B5D</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/liyuanfeng/Cartoon-house.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>01E6740F83DA3F1845279ED231C65397E010E150</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>630594A0C3AF0041EB86DE5D805A5B25A32E1B5D</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>01E6740F83DA3F1845279ED231C65397E010E150</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CartoonHouse</string>
+		</dict>
+	</array>
+</dict>
+</plist>

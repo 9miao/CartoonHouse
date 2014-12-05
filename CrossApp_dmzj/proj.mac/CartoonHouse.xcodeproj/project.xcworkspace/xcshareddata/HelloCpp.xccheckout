@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>962B31A4-7FF3-4522-8E93-A451085EA4BE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HelloCpp</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0B1BFCBD-3926-4C5D-9BCF-DB33204FDA3E</key>
+		<string>https://github.com/9miao/CrossApp.git</string>
+		<key>7EA90CF7-2FC0-47EB-89F3-99ABE08C261A</key>
+		<string>https://git.oschina.net/liyuanfeng/Cartoon-house.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>projects/CartoonHouse/proj.mac/HelloCpp.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0B1BFCBD-3926-4C5D-9BCF-DB33204FDA3E</key>
+		<string>../../../../..</string>
+		<key>7EA90CF7-2FC0-47EB-89F3-99ABE08C261A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/liyuanfeng/Cartoon-house.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0B1BFCBD-3926-4C5D-9BCF-DB33204FDA3E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>7EA90CF7-2FC0-47EB-89F3-99ABE08C261A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CartoonHouse</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0B1BFCBD-3926-4C5D-9BCF-DB33204FDA3E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CrossApp_beta</string>
+		</dict>
+	</array>
+</dict>
+</plist>

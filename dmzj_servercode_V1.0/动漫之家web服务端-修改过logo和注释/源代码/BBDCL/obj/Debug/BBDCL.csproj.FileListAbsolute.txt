@@ -1,0 +1,10 @@
+F:\项目\动漫之家接口\新建文件夹\BBDCL\bin\Debug\BBDCL.dll
+F:\项目\动漫之家接口\新建文件夹\BBDCL\bin\Debug\BBDCL.pdb
+F:\项目\动漫之家接口\新建文件夹\BBDCL\obj\Debug\BBDCL.csprojResolveAssemblyReference.cache
+F:\项目\动漫之家接口\新建文件夹\BBDCL\obj\Debug\BBDCL.dll
+F:\项目\动漫之家接口\新建文件夹\BBDCL\obj\Debug\BBDCL.pdb
+F:\项目\动漫之家接口\新建文件夹\web服务端\BBDCL\bin\Debug\BBDCL.dll
+F:\项目\动漫之家接口\新建文件夹\web服务端\BBDCL\bin\Debug\BBDCL.pdb
+F:\项目\动漫之家接口\新建文件夹\web服务端\BBDCL\obj\Debug\BBDCL.csprojResolveAssemblyReference.cache
+F:\项目\动漫之家接口\新建文件夹\web服务端\BBDCL\obj\Debug\BBDCL.dll
+F:\项目\动漫之家接口\新建文件夹\web服务端\BBDCL\obj\Debug\BBDCL.pdb
